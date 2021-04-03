@@ -133,3 +133,7 @@ dmypy.json
 
 # picture file
 EDA/screen_shots
+
+# ds store
+.DS_Store
+EDA/.DS_Store
